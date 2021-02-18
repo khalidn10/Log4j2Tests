@@ -1,0 +1,11 @@
+2020-11-26 17:54:57.071 [main] FATAL log4j_tests1.Log4jTest1 - This is a fatal log in Test 1
+2020-11-27 03:08:37.303 [main] TRACE log4j_tests1.Log4jTest1 - This is a trace log in Test 1
+2020-11-27 03:08:37.322 [main] DEBUG log4j_tests1.Log4jTest1 - This is a debug log in Test 1
+2020-11-27 03:08:37.323 [main] INFO  log4j_tests1.Log4jTest1 - This is an info log in Test 1
+2020-11-27 03:08:37.324 [main] WARN  log4j_tests1.Log4jTest1 - This is a warn log in Test 1
+2020-11-27 03:08:37.325 [main] ERROR log4j_tests1.Log4jTest1 - This is an error log in Test 1
+2020-11-27 03:08:37.325 [main] FATAL log4j_tests1.Log4jTest1 - This is a fatal log in Test 1
+2020-11-27 03:09:37.731 [main] INFO  log4j_tests1.Log4jTest1 - This is an info log in Test 1
+2020-11-27 03:09:37.749 [main] WARN  log4j_tests1.Log4jTest1 - This is a warn log in Test 1
+2020-11-27 03:09:37.750 [main] ERROR log4j_tests1.Log4jTest1 - This is an error log in Test 1
+2020-11-27 03:09:37.751 [main] FATAL log4j_tests1.Log4jTest1 - This is a fatal log in Test 1
